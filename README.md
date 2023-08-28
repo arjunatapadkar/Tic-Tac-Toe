@@ -39,6 +39,6 @@ Play the game live: [Tic-Tac-Toe Game](https://tic-tac-toe-by-arjun-atp.netlify.
 
 ### Contact
 
-For any questions or feedback, feel free to reach out at [your.email@example.com](mailto:arjunatapadkar94@gmail.com).
+For any questions or feedback, feel free to reach out at [arjunatapadkar94@gmail.com](mailto:arjunatapadkar94@gmail.com).
 
 Enjoy the game! 🎮
